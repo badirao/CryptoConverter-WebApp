@@ -1,1 +1,1 @@
-# ScriptingLabHTMLproj
+The CryptoCurrency WebApp makes use of the coinmarket public API to obtain different quotes for different currencies as specified. It accepts user input in INR and displays the amount of BTC,ETH, and Ripple coin that can be bought with the same.
